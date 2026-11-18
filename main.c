@@ -1,8 +1,3 @@
-/*
- * main.c - programme de test (console) pour passager.c
- * Cree passager.txt avec quelques passagers puis affiche son contenu.
- */
-
 #include <stdio.h>
 #include <string.h>
 #include <gtk/gtk.h>
